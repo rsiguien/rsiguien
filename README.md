@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ruth Siguiente
 - 👀 I’m interested in hiking, camping, backpacking, fishing, baking, cake decorating and floral soy candle making.
-- 🌱 I’m currently learning java programming.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning: New IDE's, more in depth JS, and React
+- 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me: ruth.siguiente@gmail.com
 
 <!---
