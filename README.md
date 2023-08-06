@@ -1,11 +1,11 @@
-# Hello there 👋, I'm Karen Dillehay
+# Hello there 👋, I'm Ruth Siguiente
 
 ### Full Stack Software Developer (Java/JavaScript/Spring/Maven/Hibernate/SQL)
 
 - 🔭 I’m currently working on: Full Stack Web Apps 
 - 🌱 I’m currently learning: new IDEs, more in depth JS, and React
-- 💬 Ask me about: my time as an ICU RN (10 years) and what I'm working on next!
-- ⚡ Fun fact: I live in far north Minnesota, and love travelling
+- my hobbies are hiking, backpacking, camping, buttercream floral piping, cake decorating and floral soy candle making
+- ⚡ Fun fact: 5 years ago from a tropical place I moved in NY and I'm loving it specially the cold.
 
 <br/>
 
@@ -16,7 +16,7 @@
         <th>My Website</th>
          <td>
 <!--             <a href="https://www.fcb2c.com/">🌐</a> -->
-           <a href="https://www.fcb2c.com/">🌐 From Code Blue to Coding</a>
+<!--           <a href="https://www.fcb2c.com/">🌐 From Code Blue to Coding</a>
 <!--            <a href="https://www.fcb2c.com/">🌐 <img src= ![kaylee logo 2]("https://github.com/Kadillehay/Kadillehay/assets/117693236/ca579504-6f4a-4923-9807-8626055b7e51")</a> -->
         </td>
 <!--           <th>My CV</th> -->
@@ -40,8 +40,8 @@
 
  <!-- <a href="https://twitter.com/Colin_But"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="40" height="40"/></a>   -->
 <a href="https://www.linkedin.com/in/karendillehay//"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
- <a href = "mailto: kadillehay@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" ></a>
-<a href="https://www.pinterest.com/KarenFCB2C"><img src="https://www.vectorlogo.zone/logos/pinterest/pinterest-icon.svg" width="40" height="40"/></a> 
+ <a href = "mailto: ruth.siguiente@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" ></a>
+<!-- <a href="https://www.pinterest.com/KarenFCB2C"><img src="https://www.vectorlogo.zone/logos/pinterest/pinterest-icon.svg" width="40" height="40"/></a> 
 
   
 
