@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on: Full Stack Web Apps 
 - 🌱 I’m currently learning: new IDEs, more in depth JS, and React
-- my hobbies are hiking, backpacking, camping, buttercream floral piping, cake decorating and floral soy candle making
+- my hobbies are hiking, backpacking, camping, buttercream floral piping, cake decorating and soy floral candle making
 - ⚡ Fun fact: 5 years ago from a tropical place I moved in NY and I'm loving it specially the cold.
 
 <br/>
