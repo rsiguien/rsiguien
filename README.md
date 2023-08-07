@@ -20,7 +20,7 @@
 ### Contact me:
 
  <!-- <a href="https://twitter.com/Colin_But"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="40" height="40"/></a>   -->
-<a href="https://https://www.linkedin.com/in/ruthfsiguiente//"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
+<a href="https://www.linkedin.com/in/ruthfsiguiente//"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
  <a href = "mailto: ruth.siguiente@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" ></a>
 <!-- <a href="https://www.pinterest.com/KarenFCB2C"><img src="https://www.vectorlogo.zone/logos/pinterest/pinterest-icon.svg" width="40" height="40"/></a> 
 
